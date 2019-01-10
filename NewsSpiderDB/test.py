@@ -1,0 +1,2 @@
+import BaiduNews
+BaiduNews.run()
